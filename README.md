@@ -1,4 +1,4 @@
-# College_project_2nd_year : Arcade Center
+# College_project_1nd_year : Arcade Center
 ### Arcade like program with multiple games:
 1.Tic Tac Toe<br>
 2.Rock Paper Scissors <br>
